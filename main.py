@@ -13,10 +13,10 @@ pa.write(link)
 pa.press("enter")
 time.sleep(5)
 pa.click(x=315, y=253)
-pa.write("luany freitas")
+pa.write("ailton")
 pa.press("enter")
 
-mensagens = "eu te amo mais que tudo"
+mensagens = "AI BOLSONARO GOZA EM MIM GOZA BOLSONARO"
 while True:
     for mensagem in mensagens:
         pa.write(mensagens)
