@@ -23,4 +23,3 @@ while True:
         time.sleep(0.1)
         pa.press("enter")
         time.sleep(0.1)
-z
